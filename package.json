@@ -1,0 +1,14 @@
+{
+  "name": "webdriversinglefileexample",
+  "version": "1.0.0",
+  "description": "single file to use webdriver io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webdriverio": "^8.10.5"
+  }
+}
